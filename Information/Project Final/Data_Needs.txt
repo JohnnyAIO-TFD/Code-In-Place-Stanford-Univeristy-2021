@@ -1,0 +1,61 @@
+512031071	Moperid 10mg x 20 Tab	 1653816.29 
+580150011	Quanox 0.6% gotas frasco x 5 ml	 1790719.70 
+681031121	Tiroxin 100mcg x 50 Tab	 2827500.00 
+682031121	Tiroxin 50mcg x 50 Tab	 1755000.00 
+20223051	Alantamida 0.5%-0.4% Crema X 20 Grs	 1472727.27 
+19051031	Aplacal 750mg tabs mast Banana	 1650000.00 
+18051031	Aplacal 750mg tabs mast Frambuesa	 1650000.00 
+17051031	Aplacal 750mg tabs mast Mandarina	 1650000.00 
+16051031	Aplacal 750mg tabs mast Menta	 1650000.00 
+23150041	Arbixil 7.5mg-5mcg/mL Sol Gtas 15	 921818.18 
+23120131	Arbixil 7.5mg-5mcg/5mL Jbe X 120 mL	 1771619.32 
+94150041	Ascafyl SC 0.4mg-80mg sol Gts 15 ML	 898592.68 
+122031051	Benzodiazol Menta x 16 Pastillas	 900213.07 
+121031051	Benzodiazol Tutti Fruti x 16 Past	 900213.07 
+130130091	Brolat 5mg-30mg/5mL Sol oral 60 mL	 1484659.09 
+122120061	BENDAMEN SUSP X 30ML	 682500.00 
+146031031	Calmox 15 Mg Tableta X 10	 1420454.55 
+145031031	Calmox 7.5 mg Tableta X 10	 1231060.61 
+141223051	Campal 1% crema x 50 g	 1390000.00 
+141223031	Campal 1% Crema X 20 Grs	 1104261.36 
+151031031	Cetral 10 mg Tableta X 10	 566854.17 
+220160131	Doce Plex Elixir  X 120 mL	 1416335.23 
+245031105	Equaliv PN 100 mg-50 mg tab Rec X30	 1519407.24 
+335031071	Glymar 2 mg Tableta X 20	 1136363.64 
+336031071	Glymar 4 mg Tableta X 20	 1515151.52 
+361110131	Hepafol Forte Jarabe x 120 ml	 2864678.03 
+360110131	Hepafol 66 mg-0.150 mg Jbe 120 Ml	 2544602.27 
+396011201	Ibandromet 150 mg tabs recub x 1	 2080492.42 
+386120091	Ibut n 200 mg/5mL Susp X 60 mL	 1809659.09 
+394031031	Ibutanmigra Tabletas x 10	 1420454.55 
+390130051	Imazol 1% Soluci¢n X 20 mL	 923295.45 
+390180201	Imazol 1% Spray X 25 mL	 1925994.32 
+390331011	Imazol 100 mg cap blanda vag x 6	 2187500.00 
+536130091	Lecart 1g/10mL Solucion Oral 60 mL	 775456.50 
+538031031	Loflox 400 mg Tab recubierta X 10	 2284027.78 
+538031221	Loflox 400 mg Tab recubierta X 5	 1461777.78 
+523021101	Multiviral caps x 30	 2127976.19 
+3031031	Nonafol 10 mg Tabs x 10	 466472.55 
+3031101	Nonafol 10 mg Tabs x 30	 1088435.95 
+3150041	Nonafol 10mg/ml sol gotas x 15ml	 979024.62 
+2031071	Nonafol 5 mg Tabs x 20	 644044.94 
+2031101	Nonafol 5mg Tabs x 30	 966067.41 
+529150041	Noxpirin 80 mg-0.4 mg/ml sol 15 ml	 506392.05 
+579263051	Perten 1% Gel Topico x 20 G	 937500.00 
+579180061	Perten 1% Sol Atom X 30 ml	 1262276.79 
+500031031	Sigtiphin 200 mg Comp Rec x 10	 1820000.00 
+500031071	Sigtiphin 200 mg Comp Rec x 20	 3185000.00 
+400031193	Sildenafil 50 mg Tab rec X 2	 247500.00 
+400031003	Sildenafil 50mg Tab recubierta x 4	 556875.00 
+400031203	Sildenafil 50mg Tab x 1	 185625.00 
+123030541	Beloc 100 mg Tableta X 10	 1200284.09 
+123031071	Beloc 100 mg Tableta X 20	 1680397.73 
+124030541	Beloc 50 mg Tableta X 10	 625000.00 
+124031101	Beloc 50 mg Tableta X 30	 1764258.06 
+162031231	Cypral 500 mg Tab rec X 14	 1459239.97 
+163030521	Cypral 750 mg Tab rec x 6	 951678.24 
+290110131	Ferroce B-12 Jarabe X 120 mL	 2016477.27 
+290011101	Ferroce Tableta Ent‚rica x 30	 2496590.91 
+147031232	Kapet 75 mg Tab rec X 14	 1810714.29 
+518331031	Metren Cap Blandas vag 500mg x 10	 1517247.02 
+697031031	Vast n 40 mg Tabs rec x 10	 1453042.33 
